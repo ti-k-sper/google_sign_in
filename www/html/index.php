@@ -1,6 +1,6 @@
 <?php
 require_once '../vendor/autoload.php';
-require_once 'config.php';
+require_once 'config/config.php';
 $url = "http://localhost:8080";
 session_start();
 
