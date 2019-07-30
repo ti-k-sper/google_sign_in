@@ -1,5 +1,5 @@
 .vscode
 www/vendor
 www/composer.lock
-www/html/config.php
+www/html/config
 www/credentials.json
