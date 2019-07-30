@@ -7,6 +7,7 @@
     <meta name="description" content="">
     <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
     <meta name="generator" content="Jekyll v3.8.5">
+    <meta name="google-signin-client_id" content="427699767570-m57s559lv51qf0cl0pnjlq8vrhj4ac9d.apps.googleusercontent.com">
     <title>Blog Template · Bootstrap</title>
 
     <link rel="canonical" href="https://getbootstrap.com/docs/4.3/examples/blog/">

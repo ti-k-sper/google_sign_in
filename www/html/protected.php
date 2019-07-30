@@ -1,4 +1,5 @@
 <?php
+require_once '../vendor/autoload.php';
 $url = "http://localhost:8080";
 
 session_start();
@@ -7,7 +8,7 @@ if (!isset($_SESSION["user"])) {
 }
 
 // declarer la variable $userMail
-//$userMail = 
+$userMail = $_SESSION["user"]["mail"];
 
 include 'header.php';
 ?>

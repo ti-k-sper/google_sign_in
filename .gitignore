@@ -1,0 +1,5 @@
+.vscode
+www/vendor
+www/composer.lock
+www/public/config.php
+www/credentials.json
